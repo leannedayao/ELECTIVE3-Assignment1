@@ -1,0 +1,11 @@
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.exe.config
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.exe
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.pdb
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.xml
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.vbprojAssemblyReference.cache
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.Form1.resources
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.Resources.resources
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.vbproj.GenerateResource.cache
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.exe
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.xml
+C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.pdb
