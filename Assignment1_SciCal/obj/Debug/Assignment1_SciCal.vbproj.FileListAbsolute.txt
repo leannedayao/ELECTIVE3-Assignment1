@@ -9,3 +9,25 @@ C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug
 C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.exe
 C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.xml
 C:\Users\Leslie Ann\source\repos\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.pdb
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.exe.config
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.exe
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.pdb
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.xml
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.vbprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.Resources.resources
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.exe
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.xml
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.pdb
+C:\Users\Dell\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.Calculator.resources
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.exe.config
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.exe
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.pdb
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\bin\Debug\Assignment1_SciCal.xml
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.vbprojAssemblyReference.cache
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.Calculator.resources
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.Resources.resources
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.vbproj.GenerateResource.cache
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.exe
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.xml
+C:\Users\leanne\Desktop\Assignment1_SciCal\Assignment1_SciCal\obj\Debug\Assignment1_SciCal.pdb
